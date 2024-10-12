@@ -1,11 +1,13 @@
 import React from 'react'
 import Home from './Components/Home'
 import 'boxicons'
+import Events from './Components/Events'
 
 function App() {
 	return (
 		<div>
-			<Home/>
+			<Home />
+			<Events/>
 		</div>
 	)
 }
