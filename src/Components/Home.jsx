@@ -5,7 +5,7 @@ const Home = () => {
   return (
 		<>
 			<Navbar />
-			<div className=' h-96 font-abril text-4xl  text-center text-white' style={{ backgroundImage: `url(${bg})`, backgroundSize:'cover'}}>
+			<div className=' h-96 font-abril text-4xl  text-center text-white'  style={{ backgroundImage: `url(${bg})`, backgroundSize:'cover'}}>
 				<div className='pt-36'>
 					THE GREATEST <br />SYMPOSIUM <br /> in SRCE HISTORY
 				</div>

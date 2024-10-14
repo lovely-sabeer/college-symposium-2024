@@ -24,6 +24,11 @@ module.exports = {
 			fontFamily: {
         'abril': ['"Abril Fatface"', 'serif'],
 			},	
+			rotate: {
+        'x-45': 'rotateX(45deg)',
+        'x-90': 'rotateX(90deg)',
+        'x-180': 'rotateX(180deg)',
+      }
 		},
   },
   plugins: [],

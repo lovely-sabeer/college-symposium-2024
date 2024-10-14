@@ -4,8 +4,9 @@ import 'boxicons'
 import Events from './Components/Events'
 
 function App() {
+	// onTouchStart={(e)=>{console.log(e)}}
 	return (
-		<div>
+		<div >
 			<Home />
 			<Events/>
 		</div>
